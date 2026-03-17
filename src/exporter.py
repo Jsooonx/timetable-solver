@@ -8,15 +8,8 @@ def print_terminal_output(schedule, data, score):
     print("="*50)
     print(f"Total Session Tasks: {len(schedule.sessions)}")
     print(f"Best Schedule Score: {score}")
-    print("\nReadable Schedule List:")
-    for session in schedule.sessions:
-        c_name = data['classes'][session.task.requirement.class_id].class_name
-        s_name = data['subjects'][session.task.requirement.subject_id].subject_name
-        t_name = data['teachers'][session.task.requirement.teacher_id].teacher_name
-        r_name = session.room.room_name
-        day = session.timeslot.day
-        period = session.timeslot.period
-        print(f"[{day} P{period}] {c_name} - {s_name} (Teacher: {t_name}, Room: {r_name})")
+    print("\nSTUDENT TIMETABLE VIEW (CLASS GRIDS):")
+    print(generate_grid_text(schedule, data, 'class'))
 
 def export_csv(schedule, data, output_dir):
     os.makedirs(output_dir, exist_ok=True)
