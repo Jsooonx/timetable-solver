@@ -13,6 +13,7 @@ A constraint-based timetable scheduling system that generates weekly class sched
 ## Project Structure
 ```
 Timetable-Solver/
+├── assets/                  # Demo images and GIFs
 ├── data/                    # Input CSV files
 ├── output/                  # Generated schedule outputs (CSV, TXT)
 ├── src/                     # Core backend engine
@@ -88,5 +89,8 @@ python app.py
 Open `http://localhost:5000/` in your browser.
 
 ## Sample Outputs
-`sample_output/` provides an example of what `report.txt` and `student_view.txt` generates so you can expect the layout structure. 
-![Example App Layout](https://picsum.photos/seed/schedule/800/400)
+`sample_output/` provides an example of what `report.txt` and `student_view.txt` generates so you can expect the layout structure.
+### Terminal Output
+![Example Terminal Output](assets/terminaldemo.gif)
+### Flask Output
+![Example Flask Output](assets/flaskdemo.gif)

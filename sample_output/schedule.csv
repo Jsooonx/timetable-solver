@@ -1,0 +1,46 @@
+Day,Period,Class,Subject,Teacher,Room
+Monday,1,Class 10A,Mathematics,Teacher Alice,Room 101
+Tuesday,1,Class 10A,Mathematics,Teacher Alice,Room 101
+Wednesday,1,Class 10A,Mathematics,Teacher Alice,Room 101
+Monday,2,Class 10A,Physics,Teacher Bob,Lab 1
+Tuesday,2,Class 10A,Physics,Teacher Bob,Lab 1
+Monday,3,Class 10A,Chemistry,Teacher Diana,Lab 2
+Tuesday,3,Class 10A,Chemistry,Teacher Diana,Lab 2
+Wednesday,2,Class 10A,English,Teacher Charlie,Room 102
+Thursday,1,Class 10A,English,Teacher Charlie,Room 102
+Friday,1,Class 10A,English,Teacher Charlie,Room 102
+Wednesday,3,Class 10A,History,Teacher Evan,Room 103
+Thursday,2,Class 10A,History,Teacher Evan,Room 103
+Friday,2,Class 10A,Physical Education,Teacher Fiona,Gym
+Thursday,3,Class 10A,Art,Teacher Fiona,Room 103
+Friday,3,Class 10A,Art,Teacher Fiona,Room 103
+Monday,2,Class 10B,Mathematics,Teacher Alice,Room 101
+Tuesday,2,Class 10B,Mathematics,Teacher Alice,Room 101
+Wednesday,2,Class 10B,Mathematics,Teacher Alice,Room 101
+Monday,1,Class 10B,Biology,Teacher Bob,Lab 1
+Tuesday,1,Class 10B,Biology,Teacher Bob,Lab 1
+Wednesday,1,Class 10B,Computer Science,Teacher Diana,Lab 2
+Thursday,1,Class 10B,Computer Science,Teacher Diana,Lab 2
+Monday,3,Class 10B,English,Teacher Charlie,Room 102
+Thursday,3,Class 10B,English,Teacher Charlie,Room 102
+Friday,3,Class 10B,English,Teacher Charlie,Room 102
+Tuesday,3,Class 10B,History,Teacher Evan,Room 103
+Friday,2,Class 10B,History,Teacher Evan,Room 103
+Wednesday,3,Class 10B,Physical Education,Teacher Fiona,Gym
+Thursday,2,Class 10B,Physical Education,Teacher Fiona,Gym
+Friday,1,Class 10B,Art,Teacher Fiona,Room 103
+Monday,3,Class 10C,Mathematics,Teacher Alice,Room 101
+Tuesday,3,Class 10C,Mathematics,Teacher Alice,Room 101
+Wednesday,3,Class 10C,Mathematics,Teacher Alice,Room 101
+Wednesday,1,Class 10C,Physics,Teacher Bob,Lab 1
+Friday,1,Class 10C,Physics,Teacher Bob,Lab 1
+Thursday,3,Class 10C,Computer Science,Teacher Diana,Lab 2
+Friday,3,Class 10C,Computer Science,Teacher Diana,Lab 2
+Monday,1,Class 10C,English,Teacher Charlie,Room 102
+Thursday,2,Class 10C,English,Teacher Charlie,Room 102
+Friday,2,Class 10C,English,Teacher Charlie,Room 102
+Monday,2,Class 10C,History,Teacher Evan,Room 103
+Tuesday,1,Class 10C,History,Teacher Evan,Room 103
+Tuesday,2,Class 10C,Physical Education,Teacher Fiona,Gym
+Wednesday,2,Class 10C,Art,Teacher Fiona,Room 103
+Thursday,1,Class 10C,Art,Teacher Fiona,Room 103

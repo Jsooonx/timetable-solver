@@ -1,0 +1,193 @@
+ADMIN TIMETABLE REPORT
+======================
+Total Session Tasks: 45
+Best Score: 9910
+
+Readable Schedule List:
+[Monday P1] Class 10A - Mathematics (Teacher: Teacher Alice, Room: Room 101)
+[Tuesday P1] Class 10A - Mathematics (Teacher: Teacher Alice, Room: Room 101)
+[Wednesday P1] Class 10A - Mathematics (Teacher: Teacher Alice, Room: Room 101)
+[Monday P2] Class 10A - Physics (Teacher: Teacher Bob, Room: Lab 1)
+[Tuesday P2] Class 10A - Physics (Teacher: Teacher Bob, Room: Lab 1)
+[Monday P3] Class 10A - Chemistry (Teacher: Teacher Diana, Room: Lab 2)
+[Tuesday P3] Class 10A - Chemistry (Teacher: Teacher Diana, Room: Lab 2)
+[Wednesday P2] Class 10A - English (Teacher: Teacher Charlie, Room: Room 102)
+[Thursday P1] Class 10A - English (Teacher: Teacher Charlie, Room: Room 102)
+[Friday P1] Class 10A - English (Teacher: Teacher Charlie, Room: Room 102)
+[Wednesday P3] Class 10A - History (Teacher: Teacher Evan, Room: Room 103)
+[Thursday P2] Class 10A - History (Teacher: Teacher Evan, Room: Room 103)
+[Friday P2] Class 10A - Physical Education (Teacher: Teacher Fiona, Room: Gym)
+[Thursday P3] Class 10A - Art (Teacher: Teacher Fiona, Room: Room 103)
+[Friday P3] Class 10A - Art (Teacher: Teacher Fiona, Room: Room 103)
+[Monday P2] Class 10B - Mathematics (Teacher: Teacher Alice, Room: Room 101)
+[Tuesday P2] Class 10B - Mathematics (Teacher: Teacher Alice, Room: Room 101)
+[Wednesday P2] Class 10B - Mathematics (Teacher: Teacher Alice, Room: Room 101)
+[Monday P1] Class 10B - Biology (Teacher: Teacher Bob, Room: Lab 1)
+[Tuesday P1] Class 10B - Biology (Teacher: Teacher Bob, Room: Lab 1)
+[Wednesday P1] Class 10B - Computer Science (Teacher: Teacher Diana, Room: Lab 2)
+[Thursday P1] Class 10B - Computer Science (Teacher: Teacher Diana, Room: Lab 2)
+[Monday P3] Class 10B - English (Teacher: Teacher Charlie, Room: Room 102)
+[Thursday P3] Class 10B - English (Teacher: Teacher Charlie, Room: Room 102)
+[Friday P3] Class 10B - English (Teacher: Teacher Charlie, Room: Room 102)
+[Tuesday P3] Class 10B - History (Teacher: Teacher Evan, Room: Room 103)
+[Friday P2] Class 10B - History (Teacher: Teacher Evan, Room: Room 103)
+[Wednesday P3] Class 10B - Physical Education (Teacher: Teacher Fiona, Room: Gym)
+[Thursday P2] Class 10B - Physical Education (Teacher: Teacher Fiona, Room: Gym)
+[Friday P1] Class 10B - Art (Teacher: Teacher Fiona, Room: Room 103)
+[Monday P3] Class 10C - Mathematics (Teacher: Teacher Alice, Room: Room 101)
+[Tuesday P3] Class 10C - Mathematics (Teacher: Teacher Alice, Room: Room 101)
+[Wednesday P3] Class 10C - Mathematics (Teacher: Teacher Alice, Room: Room 101)
+[Wednesday P1] Class 10C - Physics (Teacher: Teacher Bob, Room: Lab 1)
+[Friday P1] Class 10C - Physics (Teacher: Teacher Bob, Room: Lab 1)
+[Thursday P3] Class 10C - Computer Science (Teacher: Teacher Diana, Room: Lab 2)
+[Friday P3] Class 10C - Computer Science (Teacher: Teacher Diana, Room: Lab 2)
+[Monday P1] Class 10C - English (Teacher: Teacher Charlie, Room: Room 102)
+[Thursday P2] Class 10C - English (Teacher: Teacher Charlie, Room: Room 102)
+[Friday P2] Class 10C - English (Teacher: Teacher Charlie, Room: Room 102)
+[Monday P2] Class 10C - History (Teacher: Teacher Evan, Room: Room 103)
+[Tuesday P1] Class 10C - History (Teacher: Teacher Evan, Room: Room 103)
+[Tuesday P2] Class 10C - Physical Education (Teacher: Teacher Fiona, Room: Gym)
+[Wednesday P2] Class 10C - Art (Teacher: Teacher Fiona, Room: Room 103)
+[Thursday P1] Class 10C - Art (Teacher: Teacher Fiona, Room: Room 103)
+
+
+CLASS GRIDS:
+
+--- CLASS 10A TIMETABLE ---
+Day/Period  | Period 1                              | Period 2                                | Period 3                         
+---------------------------------------------------------------------------------------------------------------------------------
+Monday      | Mathematics (Teacher Alice, Room 101) | Physics (Teacher Bob, Lab 1)            | Chemistry (Teacher Diana, Lab 2) 
+Tuesday     | Mathematics (Teacher Alice, Room 101) | Physics (Teacher Bob, Lab 1)            | Chemistry (Teacher Diana, Lab 2) 
+Wednesday   | Mathematics (Teacher Alice, Room 101) | English (Teacher Charlie, Room 102)     | History (Teacher Evan, Room 103) 
+Thursday    | English (Teacher Charlie, Room 102)   | History (Teacher Evan, Room 103)        | Art (Teacher Fiona, Room 103)    
+Friday      | English (Teacher Charlie, Room 102)   | Physical Education (Teacher Fiona, Gym) | Art (Teacher Fiona, Room 103)    
+
+--- CLASS 10B TIMETABLE ---
+Day/Period  | Period 1                                | Period 2                                | Period 3                                
+------------------------------------------------------------------------------------------------------------------------------------------
+Monday      | Biology (Teacher Bob, Lab 1)            | Mathematics (Teacher Alice, Room 101)   | English (Teacher Charlie, Room 102)     
+Tuesday     | Biology (Teacher Bob, Lab 1)            | Mathematics (Teacher Alice, Room 101)   | History (Teacher Evan, Room 103)        
+Wednesday   | Computer Science (Teacher Diana, Lab 2) | Mathematics (Teacher Alice, Room 101)   | Physical Education (Teacher Fiona, Gym) 
+Thursday    | Computer Science (Teacher Diana, Lab 2) | Physical Education (Teacher Fiona, Gym) | English (Teacher Charlie, Room 102)     
+Friday      | Art (Teacher Fiona, Room 103)           | History (Teacher Evan, Room 103)        | English (Teacher Charlie, Room 102)     
+
+--- CLASS 10C TIMETABLE ---
+Day/Period  | Period 1                            | Period 2                                | Period 3                                
+--------------------------------------------------------------------------------------------------------------------------------------
+Monday      | English (Teacher Charlie, Room 102) | History (Teacher Evan, Room 103)        | Mathematics (Teacher Alice, Room 101)   
+Tuesday     | History (Teacher Evan, Room 103)    | Physical Education (Teacher Fiona, Gym) | Mathematics (Teacher Alice, Room 101)   
+Wednesday   | Physics (Teacher Bob, Lab 1)        | Art (Teacher Fiona, Room 103)           | Mathematics (Teacher Alice, Room 101)   
+Thursday    | Art (Teacher Fiona, Room 103)       | English (Teacher Charlie, Room 102)     | Computer Science (Teacher Diana, Lab 2) 
+Friday      | Physics (Teacher Bob, Lab 1)        | English (Teacher Charlie, Room 102)     | Computer Science (Teacher Diana, Lab 2) 
+
+TEACHER GRIDS:
+
+--- TEACHER ALICE TIMETABLE ---
+Day/Period  | Period 1                           | Period 2                           | Period 3                           
+---------------------------------------------------------------------------------------------------------------------------
+Monday      | Class 10A - Mathematics (Room 101) | Class 10B - Mathematics (Room 101) | Class 10C - Mathematics (Room 101) 
+Tuesday     | Class 10A - Mathematics (Room 101) | Class 10B - Mathematics (Room 101) | Class 10C - Mathematics (Room 101) 
+Wednesday   | Class 10A - Mathematics (Room 101) | Class 10B - Mathematics (Room 101) | Class 10C - Mathematics (Room 101) 
+Thursday    |                                    |                                    |                                    
+Friday      |                                    |                                    |                                    
+
+--- TEACHER BOB TIMETABLE ---
+Day/Period  | Period 1                    | Period 2                    | Period 3 
+-----------------------------------------------------------------------------------
+Monday      | Class 10B - Biology (Lab 1) | Class 10A - Physics (Lab 1) |          
+Tuesday     | Class 10B - Biology (Lab 1) | Class 10A - Physics (Lab 1) |          
+Wednesday   | Class 10C - Physics (Lab 1) |                             |          
+Thursday    |                             |                             |          
+Friday      | Class 10C - Physics (Lab 1) |                             |          
+
+--- TEACHER CHARLIE TIMETABLE ---
+Day/Period  | Period 1                       | Period 2                       | Period 3                       
+---------------------------------------------------------------------------------------------------------------
+Monday      | Class 10C - English (Room 102) |                                | Class 10B - English (Room 102) 
+Tuesday     |                                |                                |                                
+Wednesday   |                                | Class 10A - English (Room 102) |                                
+Thursday    | Class 10A - English (Room 102) | Class 10C - English (Room 102) | Class 10B - English (Room 102) 
+Friday      | Class 10A - English (Room 102) | Class 10C - English (Room 102) | Class 10B - English (Room 102) 
+
+--- TEACHER DIANA TIMETABLE ---
+Day/Period  | Period 1                             | Period 2 | Period 3                             
+-----------------------------------------------------------------------------------------------------
+Monday      |                                      |          | Class 10A - Chemistry (Lab 2)        
+Tuesday     |                                      |          | Class 10A - Chemistry (Lab 2)        
+Wednesday   | Class 10B - Computer Science (Lab 2) |          |                                      
+Thursday    | Class 10B - Computer Science (Lab 2) |          | Class 10C - Computer Science (Lab 2) 
+Friday      |                                      |          | Class 10C - Computer Science (Lab 2) 
+
+--- TEACHER EVAN TIMETABLE ---
+Day/Period  | Period 1                       | Period 2                       | Period 3                       
+---------------------------------------------------------------------------------------------------------------
+Monday      |                                | Class 10C - History (Room 103) |                                
+Tuesday     | Class 10C - History (Room 103) |                                | Class 10B - History (Room 103) 
+Wednesday   |                                |                                | Class 10A - History (Room 103) 
+Thursday    |                                | Class 10A - History (Room 103) |                                
+Friday      |                                | Class 10B - History (Room 103) |                                
+
+--- TEACHER FIONA TIMETABLE ---
+Day/Period  | Period 1                   | Period 2                             | Period 3                             
+-----------------------------------------------------------------------------------------------------------------------
+Monday      |                            |                                      |                                      
+Tuesday     |                            | Class 10C - Physical Education (Gym) |                                      
+Wednesday   |                            | Class 10C - Art (Room 103)           | Class 10B - Physical Education (Gym) 
+Thursday    | Class 10C - Art (Room 103) | Class 10B - Physical Education (Gym) | Class 10A - Art (Room 103)           
+Friday      | Class 10B - Art (Room 103) | Class 10A - Physical Education (Gym) | Class 10A - Art (Room 103)           
+
+ROOM GRIDS:
+
+--- ROOM 101 TIMETABLE ---
+Day/Period  | Period 1                                | Period 2                                | Period 3                                
+------------------------------------------------------------------------------------------------------------------------------------------
+Monday      | Class 10A - Mathematics (Teacher Alice) | Class 10B - Mathematics (Teacher Alice) | Class 10C - Mathematics (Teacher Alice) 
+Tuesday     | Class 10A - Mathematics (Teacher Alice) | Class 10B - Mathematics (Teacher Alice) | Class 10C - Mathematics (Teacher Alice) 
+Wednesday   | Class 10A - Mathematics (Teacher Alice) | Class 10B - Mathematics (Teacher Alice) | Class 10C - Mathematics (Teacher Alice) 
+Thursday    |                                         |                                         |                                         
+Friday      |                                         |                                         |                                         
+
+--- ROOM 102 TIMETABLE ---
+Day/Period  | Period 1                              | Period 2                              | Period 3                              
+------------------------------------------------------------------------------------------------------------------------------------
+Monday      | Class 10C - English (Teacher Charlie) |                                       | Class 10B - English (Teacher Charlie) 
+Tuesday     |                                       |                                       |                                       
+Wednesday   |                                       | Class 10A - English (Teacher Charlie) |                                       
+Thursday    | Class 10A - English (Teacher Charlie) | Class 10C - English (Teacher Charlie) | Class 10B - English (Teacher Charlie) 
+Friday      | Class 10A - English (Teacher Charlie) | Class 10C - English (Teacher Charlie) | Class 10B - English (Teacher Charlie) 
+
+--- ROOM 103 TIMETABLE ---
+Day/Period  | Period 1                           | Period 2                           | Period 3                           
+---------------------------------------------------------------------------------------------------------------------------
+Monday      |                                    | Class 10C - History (Teacher Evan) |                                    
+Tuesday     | Class 10C - History (Teacher Evan) |                                    | Class 10B - History (Teacher Evan) 
+Wednesday   |                                    | Class 10C - Art (Teacher Fiona)    | Class 10A - History (Teacher Evan) 
+Thursday    | Class 10C - Art (Teacher Fiona)    | Class 10A - History (Teacher Evan) | Class 10A - Art (Teacher Fiona)    
+Friday      | Class 10B - Art (Teacher Fiona)    | Class 10B - History (Teacher Evan) | Class 10A - Art (Teacher Fiona)    
+
+--- LAB 1 TIMETABLE ---
+Day/Period  | Period 1                          | Period 2                          | Period 3 
+-----------------------------------------------------------------------------------------------
+Monday      | Class 10B - Biology (Teacher Bob) | Class 10A - Physics (Teacher Bob) |          
+Tuesday     | Class 10B - Biology (Teacher Bob) | Class 10A - Physics (Teacher Bob) |          
+Wednesday   | Class 10C - Physics (Teacher Bob) |                                   |          
+Thursday    |                                   |                                   |          
+Friday      | Class 10C - Physics (Teacher Bob) |                                   |          
+
+--- LAB 2 TIMETABLE ---
+Day/Period  | Period 1                                     | Period 2 | Period 3                                     
+---------------------------------------------------------------------------------------------------------------------
+Monday      |                                              |          | Class 10A - Chemistry (Teacher Diana)        
+Tuesday     |                                              |          | Class 10A - Chemistry (Teacher Diana)        
+Wednesday   | Class 10B - Computer Science (Teacher Diana) |          |                                              
+Thursday    | Class 10B - Computer Science (Teacher Diana) |          | Class 10C - Computer Science (Teacher Diana) 
+Friday      |                                              |          | Class 10C - Computer Science (Teacher Diana) 
+
+--- GYM TIMETABLE ---
+Day/Period  | Period 1 | Period 2                                       | Period 3                                       
+-------------------------------------------------------------------------------------------------------------------------
+Monday      |          |                                                |                                                
+Tuesday     |          | Class 10C - Physical Education (Teacher Fiona) |                                                
+Wednesday   |          |                                                | Class 10B - Physical Education (Teacher Fiona) 
+Thursday    |          | Class 10B - Physical Education (Teacher Fiona) |                                                
+Friday      |          | Class 10A - Physical Education (Teacher Fiona) |                                                

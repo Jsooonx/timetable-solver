@@ -1,0 +1,29 @@
+STUDENT TIMETABLE VIEW
+======================
+
+--- CLASS 10A TIMETABLE ---
+Day/Period  | Period 1                              | Period 2                                | Period 3                         
+---------------------------------------------------------------------------------------------------------------------------------
+Monday      | Mathematics (Teacher Alice, Room 101) | Physics (Teacher Bob, Lab 1)            | Chemistry (Teacher Diana, Lab 2) 
+Tuesday     | Mathematics (Teacher Alice, Room 101) | Physics (Teacher Bob, Lab 1)            | Chemistry (Teacher Diana, Lab 2) 
+Wednesday   | Mathematics (Teacher Alice, Room 101) | English (Teacher Charlie, Room 102)     | History (Teacher Evan, Room 103) 
+Thursday    | English (Teacher Charlie, Room 102)   | History (Teacher Evan, Room 103)        | Art (Teacher Fiona, Room 103)    
+Friday      | English (Teacher Charlie, Room 102)   | Physical Education (Teacher Fiona, Gym) | Art (Teacher Fiona, Room 103)    
+
+--- CLASS 10B TIMETABLE ---
+Day/Period  | Period 1                                | Period 2                                | Period 3                                
+------------------------------------------------------------------------------------------------------------------------------------------
+Monday      | Biology (Teacher Bob, Lab 1)            | Mathematics (Teacher Alice, Room 101)   | English (Teacher Charlie, Room 102)     
+Tuesday     | Biology (Teacher Bob, Lab 1)            | Mathematics (Teacher Alice, Room 101)   | History (Teacher Evan, Room 103)        
+Wednesday   | Computer Science (Teacher Diana, Lab 2) | Mathematics (Teacher Alice, Room 101)   | Physical Education (Teacher Fiona, Gym) 
+Thursday    | Computer Science (Teacher Diana, Lab 2) | Physical Education (Teacher Fiona, Gym) | English (Teacher Charlie, Room 102)     
+Friday      | Art (Teacher Fiona, Room 103)           | History (Teacher Evan, Room 103)        | English (Teacher Charlie, Room 102)     
+
+--- CLASS 10C TIMETABLE ---
+Day/Period  | Period 1                            | Period 2                                | Period 3                                
+--------------------------------------------------------------------------------------------------------------------------------------
+Monday      | English (Teacher Charlie, Room 102) | History (Teacher Evan, Room 103)        | Mathematics (Teacher Alice, Room 101)   
+Tuesday     | History (Teacher Evan, Room 103)    | Physical Education (Teacher Fiona, Gym) | Mathematics (Teacher Alice, Room 101)   
+Wednesday   | Physics (Teacher Bob, Lab 1)        | Art (Teacher Fiona, Room 103)           | Mathematics (Teacher Alice, Room 101)   
+Thursday    | Art (Teacher Fiona, Room 103)       | English (Teacher Charlie, Room 102)     | Computer Science (Teacher Diana, Lab 2) 
+Friday      | Physics (Teacher Bob, Lab 1)        | English (Teacher Charlie, Room 102)     | Computer Science (Teacher Diana, Lab 2) 
