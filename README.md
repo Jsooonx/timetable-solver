@@ -12,7 +12,7 @@ A constraint-based timetable scheduling system that generates weekly class sched
 
 ## Project Structure
 ```
-Timetable-Solver/
+timetable-solver/
 ├── assets/                  # Demo images and GIFs
 ├── data/                    # Input CSV files
 ├── output/                  # Generated schedule outputs (CSV, TXT)
@@ -26,7 +26,7 @@ Timetable-Solver/
 │   ├── solver.py            # Recursive backtracking algorithm
 │   └── validator.py         # Validates relations
 ├── static/                  # Web CSS (Forest Green & White theme)
-├── templates/               # Web Jinja templates
+├── templates/               # Web templates
 ├── app.py                   # Flask web interface
 ├── main.py                  # CLI backend runner
 ├── requirements.txt         # Dependencies
